@@ -28,7 +28,8 @@ client.on('authenticated', (session) => {
     });
   });
 
-//client.initialize();
-
+client.initialize();
+}
+    
 (fs.existSync(SESSION_FILE_PATH)) ? withSession() : withOutSession(); /*Condicion tenaria para verificar si la seccion esta iniciada o no*/
 
