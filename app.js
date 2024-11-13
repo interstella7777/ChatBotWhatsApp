@@ -6,7 +6,9 @@ const qrcode = require('qrdode-terminal'); //Esta linea de codigo dibuja el codi
 
 const client = new Client(); //Creamos el cliente
 
-const SESSION_FILE_PATH = './session.json'  //Creo una constante 
+const SESSION_FILE_PATH = './session.json'  //Creo una constante para guaradar la session en un archivo
+let client;
+let sessionData;
 
 const withOutSession = () => {
     console.log('No tenemos session Guardada'); //Mostramos este mensaje en pantalla
