@@ -1,6 +1,6 @@
 # ChatBotWhatsApp
 
-Chatbot creado con NodeJS y Whatsapp-web.js
+Chatbot creado con NodeJS y la libreria Whatsapp-web.js
 
 ¿Que es Whatsapp-web.js?
 Es una API(application programming interface) y libreria que permite conectarse a WhatsApp a traves de un navegador web simulado con Puppeteer internamente.
