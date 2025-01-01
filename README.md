@@ -8,4 +8,5 @@ La libreria internamente utiliza un navegador web a nivel de codigo para conecta
 Instalación:
 1. Utilizar editor de codigo ejemplo Visual Studio Code
 2. Instalar NodeJS en el PC, puedes descargarlo desde la pagina oficial: https://nodejs.org
-3. Instalar la Libreria de WhatsApp-web.js con el siguiente comando en la consola: npm i whatsapp-web.js
+3. Instalar la Libreria de WhatsApp-web.js. Ejecuta el siguiente comando en la consola: npm i whatsapp-web.js
+4. Instalar la Libreria para dibujar el codigo QR en la consola y poder escanearlo con la camara del celular. Ejecuta el siguiente comando en la consola: npm i qrcode-terminal
