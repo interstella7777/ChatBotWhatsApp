@@ -1,4 +1,4 @@
-# BotWhatsApp
+# ChatBotWhatsApp
 
 Chatbot creado con NodeJS y Whatsapp-web.js
 
